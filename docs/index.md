@@ -2,6 +2,8 @@
 
 ## Hello, world! 
 
+___Всем привет___
+
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
