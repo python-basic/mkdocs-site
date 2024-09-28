@@ -32,4 +32,5 @@ jobs:
 
       - name: Deploy
         run: rsync --archive --stats site/ ${{ secrets.REMOTE_DEST }}
+        # root@__IP_ADDR__:/var/www/html
 
