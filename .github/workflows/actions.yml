@@ -31,6 +31,7 @@ jobs:
           echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
 
       - name: Deploy
-        run: rsync --archive --stats site/ ${{ secrets.REMOTE_DEST }}
+          run: mkdocs gh-deploy
+        # run: rsync --archive --stats site/ ${{ secrets.REMOTE_DEST }}
         # root@__IP_ADDR__:/var/www/html
 
