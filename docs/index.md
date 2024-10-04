@@ -2,7 +2,7 @@
 
 ## Hello, world! 
 
-___Всем привет___
+___Всем привет___: 📅 4/10/2024, 🕔 18:51
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
