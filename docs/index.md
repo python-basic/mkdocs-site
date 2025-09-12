@@ -2,7 +2,7 @@
 
 ## Hello, world! 
 
-___Всем привет___: 📅 12/09/2025, 🕔 ~17:43
+___Всем привет___: 📅 12/09/2025, 🕔 ~19:27
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -19,3 +19,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Дальнейшие шаги 
+
+1. Публикация в репозитории GitHub.
+2. Автоматизация деплоймента статического сайта.
+
