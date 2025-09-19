@@ -1,12 +1,11 @@
 # Welcome to MkDocs
 
-## Hello, world! 
-
-___Всем привет___: 📅 19/09/2025, 🕔 ~19:56
-
-Демо для группы ПРВРЭС 1.4 
+## Hello, world! This class is for Python Static Site Building
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+19/09/2025 Finally, we met and zoom-meeting is ok.
+
 
 ## Commands
 
