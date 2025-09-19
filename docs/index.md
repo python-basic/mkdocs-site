@@ -2,7 +2,9 @@
 
 ## Hello, world! 
 
-___Всем привет___: 📅 12/09/2025, 🕔 ~19:27
+___Всем привет___: 📅 19/09/2025, 🕔 ~19:56
+
+Демо для группы ПРВРЭС 1.4 
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
