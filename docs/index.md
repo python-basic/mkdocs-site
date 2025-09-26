@@ -4,7 +4,7 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-19/09/2025 Finally, we met and zoom-meeting is ok.
+26/09/2025 Finally, we met and zoom-meeting is ok.
 
 
 ## Commands
