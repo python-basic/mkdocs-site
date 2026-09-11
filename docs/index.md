@@ -4,8 +4,9 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-26/09/2025 Finally, we met and zoom-meeting is ok.
+Scientific results of Zhukov's master thesis. 
 
+_11.09.2026_
 
 ## Commands
 
